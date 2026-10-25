@@ -1,7 +1,6 @@
 # LazyVim Dotfiles
 
-Neovim 配置，基于 LazyVim，主要用于 C/C++、CMake、Java、Markdown 和 Python
-开发。
+Neovim 配置，基于 LazyVim
 
 > 这是独立维护阶段的 LazyVim dotfiles。后续会合并到统一的总 dotfiles 仓库，届时以
 > 总 dotfiles 为唯一配置来源。
