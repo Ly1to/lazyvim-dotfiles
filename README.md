@@ -1,4 +1,4 @@
-# LazyVim Dotfiles
+# LazyVim Dotfile
 
 Neovim 配置，基于 LazyVim
 
